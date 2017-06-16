@@ -1,2 +1,2 @@
-# Upgraded-Classic
-Code for "Upgraded Classic" drone
+# RCnode
+Code for RCnode
