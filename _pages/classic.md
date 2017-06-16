@@ -9,10 +9,10 @@ permalink: http://rcnode.com/index.php/classic/
 published: true
 ---
 [et_pb_section fb_built="1" admin_label="section" _builder_version="3.0.47"][et_pb_row custom_padding="24.3125px|0px|0px|0px" admin_label="row" _builder_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="4_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text admin_label="Text" _builder_version="3.0.51" background_size="initial" background_position="top_left" background_repeat="repeat" inline_fonts="Cantata One"]<h4><span style="font-size: xx-large; color: #0c0c0c;"><strong><span style="font-family: 'Cantata One';">This section contain instructions for you to build your own</span></strong></span></h4>
-<p>&nbsp;</p>
+<p> </p>
 <p class=""><span style="font-size: 32px; color: #0c0c0c;"><strong><span style="font-family: 'Cantata One';">"Classic" drone.</span></strong></span></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p> </p>
+<p> </p>
 <p class=""><span style="font-family: 'Cantata One';"><span style="font-size: 32px;">Step 1: Materials</span></span></p>
 <p><img class="alignnone size-medium wp-image-143" src="http://rcnode.com/wp-content/uploads/2017/06/Screen-Shot-2017-06-17-at-12.56.41-AM-300x169.jpg" alt="" width="458" height="258" /></p>
 <ul>
@@ -45,4 +45,4 @@ published: true
 <li>USB</li>
 <li>Any chip with USB port that does not require unmounting</li>
 </ul>
-[/et_pb_text][et_pb_post_nav in_same_term="on" next_text="Step 2: Soldering" _builder_version="3.0.51" title_font_size="19px" title_font="Cantata One|on|||" title_text_color="#3ad10c" use_border_color="on" border_color="#000000" border_width="0px" border_style="inset"][/et_pb_post_nav][et_pb_divider show_divider="on" _builder_version="3.0.51" color="#000000" divider_weight="4px"][/et_pb_divider][et_pb_post_nav _builder_version="3.0.51" in_same_term="on" taxonomy_name="Step 2: Soldering"][/et_pb_post_nav][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.0.51"][et_pb_column type="4_4" _builder_version="3.0.51" parallax="off" parallax_method="on"][et_pb_comments _builder_version="3.0.51" input_border_radius="4px" use_border_color="on" border_color="#000000"][/et_pb_comments][/et_pb_column][/et_pb_row][/et_pb_section]
+[/et_pb_text][et_pb_post_nav in_same_term="on" next_text="Step 2: Soldering" _builder_version="3.0.51" title_font="Cantata One|on|||" title_font_size="19px" title_text_color="#3ad10c" use_border_color="on" border_color="#000000" border_width="0px" border_style="inset"][/et_pb_post_nav][et_pb_divider color="#000000" show_divider="on" divider_weight="4px" _builder_version="3.0.51"][/et_pb_divider][et_pb_post_nav in_same_term="on" taxonomy_name="Step 2: Soldering" _builder_version="3.0.51"][/et_pb_post_nav][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.0.51"][et_pb_column type="4_4" _builder_version="3.0.51" parallax="off" parallax_method="on"][/et_pb_column][/et_pb_row][/et_pb_section]
