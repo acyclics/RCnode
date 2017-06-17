@@ -7,8 +7,6 @@ post_excerpt: ""
 layout: page
 permalink: http://rcnode.com/index.php/classic/
 published: true
-turn comments on:
-  - 'true'
 ---
 [et_pb_section bb_built="1" admin_label="section" _builder_version="3.0.51" background_color_gradient_direction="270deg"][et_pb_row admin_label="row" custom_padding="24.3125px|0px|0px|0px" background_color_2="#000000" _builder_version="3.0.51" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="2_3"][et_pb_text admin_label="Text" _builder_version="3.0.51" background_size="initial" background_position="top_left" background_repeat="repeat" inline_fonts="Cantata One"]
 <p class=""><span style="font-family: 'Cantata One';"><span style="font-size: 32px;">Step 1: Materials</span></span></p>
