@@ -9,12 +9,12 @@ permalink: >
   http://rcnode.com/index.php/2017/06/18/copter-attitude-control/
 published: true
 ---
-[et_pb_section admin_label="section"]
-		[et_pb_row admin_label="row"]
-			[et_pb_column type="4_4"]
-				[et_pb_text admin_label="Text"]
+[et_pb_section fb_built="1" admin_label="section" _builder_version="3.0.47"][et_pb_row admin_label="row" _builder_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="4_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text admin_label="Text" _builder_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"]
 					
-				[/et_pb_text]
-			[/et_pb_column]
-		[/et_pb_row]
-	[/et_pb_section]
+				[/et_pb_text][et_pb_text _builder_version="3.0.51"]<p>This is a <g class="gr_ gr_10 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling multiReplace" id="10" data-gr-id="10">high level</g> diagram depicting how attitude control is done for each axis. This is done through a "Proportional controller". The proportional controller will read the angle error and use its value to create <g class="gr_ gr_16 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar multiReplace" id="16" data-gr-id="16">a desired</g> rotation rate (A rotation rate that minimizes the effect of the error) and return it to a PID controller to convert the desired rotation rate into a <g class="gr_ gr_17 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling multiReplace" id="17" data-gr-id="17">high level</g> motor command. Meaning, after the proportional controller created the desired angle the value of the actual rate will be acquired. Once it's acquired, both will be inputted into the PID controller and the PID controller will compare the two to make necessary adjustments to the motors. The &ldquo;square root controller&rdquo; portion of the diagram shows the curved used with the angle control&rsquo;s P controller.[caption width="1122" id="attachment_448" align="<g class="gr_ gr_35 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="35" data-gr-id="35">alignnone</g>"]<img src="http://rcnode.com/wp-content/uploads/2017/06/Copter_CodeOverview_AttitudeControlPID.png" width="1122" height="702" alt="" class="wp-image-448 size-full" /> Image from ardupilot.org[/caption]</p>
+<h1></h1>
+<h1></h1>
+<h1>Proportional controller</h1>
+<p>A proportional controller does exactly what it said, it controls the proportional between two variables. For example, if the error in position is too big the proportional controller will lower the speed it's moving to compensate.</p>
+<p>Angle error: Angle error is the difference between the actual angle and target angle. Target angle is the bearing of your drone from your controller/station/target. Actual angle is exactly what it is, the real angle. This is because target angle is the predicted angle towards the target, whereas actual angle is the true angle between the two. Thus an angle error is <g class="gr_ gr_66 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar multiReplace" id="66" data-gr-id="66">the difference</g> between the predicted angle and true angle.</p>
+<p><g class="gr_ gr_70 gr-alert gr_gramm gr_hide gr_inline_cards gr_run_anim Grammar multiReplace replaceWithoutSep replaceWithoutSep" id="70" data-gr-id="70">Proportional-integral-derivative</g> controller (PID controller): A PID controller is a control loop feedback mechanism that continuously calculates an error value by calculating the difference between a "desired" value and a "measured" value. It will then apply a correction depending on proportional, integral and derivative terms.</p>[/et_pb_text][et_pb_divider show_divider="on" _builder_version="3.0.51" color="#000000" divider_weight="2px"][/et_pb_divider][et_pb_comments _builder_version="3.0.51"][/et_pb_comments][/et_pb_column][/et_pb_row][/et_pb_section]
