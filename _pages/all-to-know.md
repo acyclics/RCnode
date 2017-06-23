@@ -8,12 +8,4 @@ layout: page
 permalink: http://rcnode.com/all-to-know/
 published: true
 ---
-[et_pb_section admin_label="section"]
-		[et_pb_row admin_label="row"]
-			[et_pb_column type="4_4"]
-				[et_pb_text admin_label="Text"]
-					
-				[/et_pb_text]
-			[/et_pb_column]
-		[/et_pb_row]
-	[/et_pb_section]
+[et_pb_section fb_built="1" admin_label="section" _builder_version="3.0.47"][et_pb_row _builder_version="3.0.51"][et_pb_column type="1_4" _builder_version="3.0.51" parallax="off" parallax_method="on"][et_pb_button button_text="Quick Overview" _builder_version="3.0.51" background_color="#7EBEC5" button_alignment="center" custom_css_main_element="height: 100px;||width: 200px;"][/et_pb_button][/et_pb_column][et_pb_column type="1_4" _builder_version="3.0.51" parallax="off" parallax_method="on"][et_pb_button button_text="Hardware" _builder_version="3.0.51" background_color="#7EBEC5" button_alignment="center" custom_css_main_element="height: 100px;||width: 200px;"][/et_pb_button][/et_pb_column][et_pb_column type="1_4" _builder_version="3.0.51" parallax="off" parallax_method="on"][et_pb_button button_text="Software" _builder_version="3.0.51" background_color="#7EBEC5" button_alignment="center" custom_css_main_element="height: 100px;||width: 200px;"][/et_pb_button][/et_pb_column][et_pb_column type="1_4" _builder_version="3.0.51" parallax="off" parallax_method="on"][et_pb_button button_text="Physics behind drones" _builder_version="3.0.51" background_color="#7EBEC5" button_alignment="center" custom_css_main_element="height: 100px;||width: 200px;"][/et_pb_button][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.0.51"][et_pb_column type="4_4" _builder_version="3.0.51" parallax="off" parallax_method="on"][et_pb_divider show_divider="on" _builder_version="3.0.51" color="#000000" divider_weight="4px"][/et_pb_divider][et_pb_text _builder_version="3.0.51"]<p class=""><span style="font-size: large;"><span><span><span><span>This page contains links to all sorts of basic information regarding drone. Start here if you are new to drones or just want to know more about drones.</span></span></span></span></span></p>[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]
